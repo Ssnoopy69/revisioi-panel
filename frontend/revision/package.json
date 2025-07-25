@@ -22,10 +22,6 @@
     "react-scripts": "^3.4.1",
     "sass": "^1.49.7"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cruip/open-react-template.git"
-  },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
     "start:app": "react-scripts start",
